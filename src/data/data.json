@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "titula": "Bañadera bebes Deses",
+        "descripcion": "Bañadera para bebes Desesplast",
+        "categoria": "Baño",
+        "imagen": "https://acdn.mitiendanube.com/stores/001/425/620/products/banaderaceleste1-56a7f48cbafa60a4f416238648382106-1024-1024.webp",
+        "precio": 9620
+    },
+    {
+        "id": 2,
+        "titulo": "Canasto Para Ropa",
+        "descripcion": "Canasto para ropa con Manija 24 lts",
+        "categoria": "Baño",
+        "imagen": "https://acdn.mitiendanube.com/stores/001/425/620/products/canasto-ropa-24-lts-1-5cb62648e51a7e4e6e17006675551268-1024-1024.webp",
+        "precio": 6400
+    },
+    {
+        "id": 3,
+        "titulo": "Brasero Enlozado Para Mesa",
+        "descripcion": "Brasero Para Mantener Ricos Asados",
+        "categoria": "Cocina",
+        "imagen": "https://acdn.mitiendanube.com/stores/001/425/620/products/brasero-mesa-11-f93d213fb1abdf90dd16811502500015-1024-1024.webp",
+        "precio": 10500
+    },
+    {
+        "id": 4,
+        "titulo": "Juego de Cubiertos",
+        "descripcion": "Juego de Cubiertos Carol x 24 + Jarra de Colores",
+        "categoria": "Cocina",
+        "imagen": "https://acdn.mitiendanube.com/stores/001/425/620/products/cubiertos-81-d1b75fad57300434c616817547218936-1024-1024.webp",
+        "precio": 9200
+    },
+    {
+        "id": 5,
+        "titulo": "Vaso Mundial",
+        "descripcion": "Vaso Mundial - Copa Del Mundo Vidrio 700 Ml Bazarshop",
+        "categoria": "Vasos y Tazas",
+        "imagen": "https://acdn.mitiendanube.com/stores/001/425/620/products/copa-futbol1-278a3b10039a541b8b16801848938224-1024-1024.webp",
+        "precio": 6900
+    },
+    {
+        "id": 6,
+        "titulo": "Taza Ceramica",
+        "descripcion": "Taza Ceramica Artesanal Diseño Deia",
+        "categoria": "Vasos y Tazas",
+        "imagen": "https://acdn.mitiendanube.com/stores/001/425/620/products/taza-deia-51-070396f585e22e64ae16845968849161-1024-1024.webp",
+        "precio": 4200
+    }
+]
