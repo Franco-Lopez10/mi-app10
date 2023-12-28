@@ -6,8 +6,8 @@
 }
 
 :root {
-    --clr-main: #050505;
-    --clr-main-light: #ffdc79;
+    --clr-main: rgb(73, 70, 70);
+    --clr-main-light: #f32626;
 }
 
 .container {
@@ -25,8 +25,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: black;
-    border-bottom: 3px solid #ffdc79;
+    background-color: rgb(73, 70, 70);
+    border-bottom: 3px solid #f32626;
 }
 
 .logo {
@@ -150,7 +150,7 @@
 .item-count button,
 .agregar-al-carrito,
 .enviar {
-    background-color: #ffdc79;
+    background-color: #f32626;
     border: 0;
     width: 2rem;
     height: 2rem;
@@ -203,7 +203,7 @@
 }
 
 .vaciar {
-    background-color: #ffdc79;
+    background-color: #f32626;
     border: 0;
     width: 8rem;
     height: 3rem;
@@ -227,7 +227,7 @@
 }
 
 .finalizar {
-    background-color: #ffdc79;
+    background-color: #f32626;
     border: 0;
     width: 8rem;
     height: 3rem;

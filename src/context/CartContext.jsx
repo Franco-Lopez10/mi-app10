@@ -5,7 +5,7 @@ export const CartContext = createContext();
 
 const carritoInicial = JSON.parse(localStorage.getItem("carrito")) || [];
 
-export const CartProvider = ({ children }) => {
+export const CartProvider = ({children}) => {
 
     const [carrito, setCarrito] = useState(carritoInicial);
 
@@ -41,7 +41,7 @@ export const CartProvider = ({ children }) => {
 
 
     return (
-        <CartContext.Provider value={{
+        <CartContext.Provider value={ {
             carrito,
             agregarAlCarrito,
             cantidadEnCarrito,

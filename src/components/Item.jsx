@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { toCapital } from '../helpers/toCapital'
 
-const Item = ({ producto }) => {
+const Item = ( {producto} ) => {
     return (
         <div className="producto">
             <img src={producto.imagen} alt={producto.titulo} />

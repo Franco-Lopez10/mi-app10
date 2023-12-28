@@ -1,11 +1,12 @@
 [
     {
         "id": 1,
-        "titula": "Bañadera bebes Deses",
+        "titulo": "Bañadera bebes Deses",
         "descripcion": "Bañadera para bebes Desesplast",
         "categoria": "Baño",
         "imagen": "https://acdn.mitiendanube.com/stores/001/425/620/products/banaderaceleste1-56a7f48cbafa60a4f416238648382106-1024-1024.webp",
-        "precio": 9620
+        "precio": 9620,
+        "stock": 10
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "descripcion": "Canasto para ropa con Manija 24 lts",
         "categoria": "Baño",
         "imagen": "https://acdn.mitiendanube.com/stores/001/425/620/products/canasto-ropa-24-lts-1-5cb62648e51a7e4e6e17006675551268-1024-1024.webp",
-        "precio": 6400
+        "precio": 6400,
+        "stock": 10
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "descripcion": "Brasero Para Mantener Ricos Asados",
         "categoria": "Cocina",
         "imagen": "https://acdn.mitiendanube.com/stores/001/425/620/products/brasero-mesa-11-f93d213fb1abdf90dd16811502500015-1024-1024.webp",
-        "precio": 10500
+        "precio": 10500,
+        "stock": 10
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "descripcion": "Juego de Cubiertos Carol x 24 + Jarra de Colores",
         "categoria": "Cocina",
         "imagen": "https://acdn.mitiendanube.com/stores/001/425/620/products/cubiertos-81-d1b75fad57300434c616817547218936-1024-1024.webp",
-        "precio": 9200
+        "precio": 9200,
+        "stock": 10
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "descripcion": "Vaso Mundial - Copa Del Mundo Vidrio 700 Ml Bazarshop",
         "categoria": "Vasos y Tazas",
         "imagen": "https://acdn.mitiendanube.com/stores/001/425/620/products/copa-futbol1-278a3b10039a541b8b16801848938224-1024-1024.webp",
-        "precio": 6900
+        "precio": 6900,
+        "stock": 10
     },
     {
         "id": 6,
@@ -45,6 +50,7 @@
         "descripcion": "Taza Ceramica Artesanal Diseño Deia",
         "categoria": "Vasos y Tazas",
         "imagen": "https://acdn.mitiendanube.com/stores/001/425/620/products/taza-deia-51-070396f585e22e64ae16845968849161-1024-1024.webp",
-        "precio": 4200
+        "precio": 4200,
+        "stock": 10
     }
 ]

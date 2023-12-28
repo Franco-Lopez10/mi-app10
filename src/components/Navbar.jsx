@@ -5,10 +5,9 @@ import CartWidget from './CartWidget';
 const Navbar = () => {
     return (
         <nav className="navbar">
-            <Link to="/" className="logo"> <h1>Bazaar.F.L</h1></Link>
+            <Link to="/" className="logo"> <h1>Bazar.F.L</h1></Link>
             <ul className="menu">
                 <li><Link className="menu-link" to="/">Inicio</Link></li>
-                <li><Link className="menu-link" to="/productos">Productos</Link></li>
                 <li><Link className="menu-link" to="/productos/baño">Baño</Link></li>
                 <li><Link className="menu-link" to="/productos/cocina">Cocina</Link></li>
                 <li><Link className="menu-link" to="/productos/vasos y tazas">Vasos y Tazas</Link></li>
@@ -21,4 +20,4 @@ const Navbar = () => {
     )
 }
 
-export default Navba
+export default Navbar

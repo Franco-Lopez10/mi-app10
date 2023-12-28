@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ItemCount = ({ cantidad, handleRestar, handleSumar, handleAgregar }) => {
+const ItemCount = ( {cantidad, handleRestar, handleSumar, handleAgregar} ) => {
 
     return (
         <div>
